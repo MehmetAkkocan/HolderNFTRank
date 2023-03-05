@@ -7,7 +7,10 @@ $ npm install
 
 Preparation
 
-This lib expects you to have wallets which rank nft hold array file of all mints. Copy to src/hashlish.json of all mint address. Copy to ranks folder that output from this jsons https://github.com/MehmetAkkocan/NFTRankLister 
+This lib expects you to have wallets which rank nft hold array file of all mints. 
+Copy to src/hashlish.json of all mint address. 
+Copy to src/ranks folder that output jsons from https://github.com/MehmetAkkocan/NFTRankLister.
+Copy to src/snapshots folder that output json file from https://github.com/MehmetAkkocan/SnapshotHolders.
 
 
 holderNFTRank
